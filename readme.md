@@ -1,4 +1,4 @@
-# ETL
+# ETL - Extract, Transform, Load
 
 ## Extract: Original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
 
