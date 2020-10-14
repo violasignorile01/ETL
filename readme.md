@@ -34,5 +34,8 @@ The above process was done with both 2018 and 2019 data sets as well
 - SQL Database: 'stackoverflow_survey_db'
 - Tables within DB: 'survey_2017', 'survey_2018', 'survey_2019'
 
+![database.png](database.png)
+
+
 The SQL database and tables were chosen so that survey would have a separate table with common elements across all 3 years.  
 In the future, new tables can be added, with the same elements, iterating through the same process for each year (read in .CSV, clean, transform, insert into .SQL table, etc.)
