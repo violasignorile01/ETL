@@ -8,7 +8,7 @@
 * https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey
 * https://www.kaggle.com/mchirico/stack-overflow-developer-survey-results-2019
 
-The above datasets were all in .csv format.
+The above datasets were all converted to .csv format, in order to work with them in jupyternotebook
 
 ## Transform:
 #### The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
@@ -30,4 +30,5 @@ The above datasets were all in .csv format.
 - SQL Database: 'stackoverflow_survey_db'
 - Tables within DB: 'survey_2017', 'survey_2018', 'survey_2019'
 
-The SQL database and tables were chosen so that survey would have a separate table with common elements (fields) across all 3 years.  In the future, we can add new tables with the same elements, iterating through the same process for each year (read in .CSV, clean, transform, insert into .SQL table, etc.)
+The SQL database and tables were chosen so that survey would have a separate table with common elements across all 3 years.  
+In the future, new tables can be added, with the same elements, iterating through the same process for each year (read in .CSV, clean, transform, insert into .SQL table, etc.)
