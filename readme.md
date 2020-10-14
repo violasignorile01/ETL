@@ -12,6 +12,8 @@ The above datasets were all converted to .csv format, in order to work with them
 
 ![csv.png](csv.png)
 
+The above process was done with both 2018 and 2019 data sets as well 
+
 ## Transform:
 #### The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
 
