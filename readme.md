@@ -2,9 +2,9 @@
 
 "ETL is a type of data integration process referring to three distinct but interrelated steps (Extract, Transform and Load) and is used to synthesize data from multiple sources many times to build a Data Warehouse, Data Hub, or Data Lake." -Punit Pathak
 
-## Extract: Original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc)
+## Extract
 
-#### Data Sources:
+#### Original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc)
 
 * https://www.kaggle.com/stackoverflow/so-survey-2017¶
 * https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey
