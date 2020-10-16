@@ -14,13 +14,14 @@ The above datasets were all converted to .csv format, in order to work with them
 
 ![csv.png](csv.png)
 
-The above process was done with both 2018 and 2019 data sets as well 
+The above process was done with both 2018 and 2019 data sets as well.
 
 ## Transform:
+
 #### The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
 
-- Cleaned data - dropped NA's
-- Inspected column names to find column names that contained the same info across all three years
+- Cleaned data - dropped NA's;
+- Inspected column names to find column names that contained the same info across all three years;
 - Filtered data - filtered only for columns that we wanted:
 'id','gender','race','country','education_level','undergrad_major','years_coding','dev_type','salary'
 - Renamed columns to be uniform across all 3 years (2017-2019)
