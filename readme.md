@@ -33,6 +33,7 @@ The above process was done with both 2018 and 2019 data sets as well
 
 #### The final tables or collections that will be used in the production database.
 
+![sql_tables.png](sql_tables.png)
 - SQL Database: 'stackoverflow_survey_db'
 - Tables within DB: 'survey_2017', 'survey_2018', 'survey_2019'
 
