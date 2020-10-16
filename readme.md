@@ -41,6 +41,8 @@ Below are the codes written to create each table, in Postgres, to then connect t
 - SQL Database: 'stackoverflow_survey_db'
 - Tables within Database: 'survey_2017', 'survey_2018', 'survey_2019'
 
+Below shows some of the code used to create and connect to the database:
+
 ![database.png](database.png)
 
 
